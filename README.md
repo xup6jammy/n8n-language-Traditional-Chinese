@@ -77,7 +77,9 @@ pause
 ## 步驟 7: 重新編譯相關套件
 
 ```bash
-cd C:\Users\Jammy\Desktop\n8n\n8n
+# 切換到 n8n 專案根目錄
+cd <你的n8n專案路徑>
+# 例如: cd C:\Users\<你的用戶名>\Desktop\n8n\n8n
 
 # 編譯 i18n 套件
 pnpm --filter @n8n/i18n build
