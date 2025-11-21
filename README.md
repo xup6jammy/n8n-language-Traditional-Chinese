@@ -1,4 +1,4 @@
-# 效果
+# 先看效果
 1. 登入首頁 (英)
     <img width="1280" height="619" alt="n8n-英-登入" src="https://github.com/user-attachments/assets/3ee69334-325b-495d-8233-1aeb39e685b7" />
 1. 登入首頁 (繁中)
@@ -20,6 +20,7 @@
 5. 工作畫布2 (繁中)
     <img width="1280" height="619" alt="n8n-繁中-畫布-2" src="https://github.com/user-attachments/assets/39519527-c957-4bf0-b0ad-33a6e7587722" />
 ---
+
 # n8n 繁體中文化配置指南
 
 > **本指南使用繁體中文（Traditional Chinese）語言包**
@@ -155,3 +156,5 @@ pnpm dev
    - 後端 Config (`defaultLocale: string = 'zh'`)
 3. **修改後必須重新編譯相關套件**
 4. **環境變數 `N8N_DEFAULT_LOCALE=zh` 必須設定**
+---
+### 🌟 如果這個專案對您有幫助，請給個 Star！
