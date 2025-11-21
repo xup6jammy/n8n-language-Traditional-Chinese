@@ -1,8 +1,14 @@
 
-<img width="635" height="611" alt="n8n-繁中-概述" src="https://github.com/user-attachments/assets/4da09a1f-19ac-498a-bb24-33321db92c91" />
+# 結果 
+1. 登入首頁
 <img width="1280" height="619" alt="n8n-繁中-登入" src="https://github.com/user-attachments/assets/f5d30e2f-482f-4fe4-ae4b-760b5bec4e30" />
+2. 概述
+<img width="635" height="611" alt="n8n-繁中-概述" src="https://github.com/user-attachments/assets/4da09a1f-19ac-498a-bb24-33321db92c91" />
+3. 工作畫布1
 <img width="1280" height="619" alt="n8n-繁中-畫布" src="https://github.com/user-attachments/assets/f74f4f3b-4eb6-4172-a09e-a8f389eecc49" />
+4. 工作畫布2 
 <img width="1280" height="619" alt="n8n-繁中-畫布-2" src="https://github.com/user-attachments/assets/8c703b61-6699-47e5-8790-713cb44e9e83" />
+5. 工作畫布2 
 <img width="1280" height="619" alt="n8n-繁中-變數" src="https://github.com/user-attachments/assets/b3f86060-32a1-4c67-b347-e167614ee9b3" />
 
 # n8n 中文化配置指南
