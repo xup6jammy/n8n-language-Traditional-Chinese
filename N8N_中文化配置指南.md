@@ -1,9 +1,21 @@
-# n8n 中文化配置指南
+# n8n 繁體中文化配置指南
 
-## 步驟 1: 準備中文語言檔
+> **本指南使用繁體中文（Traditional Chinese）語言包**
 
-確認 `packages/frontend/@n8n/i18n/src/locales/zh.json` 存在
-- 如果沒有，從 `zh-CN.json` 複製一份並重命名為 `zh.json`
+## 步驟 1: 下載並放置語言檔
+
+1. 從 GitHub 儲存庫下載 `zh.json`（繁體中文）
+2. 將 `zh.json` 放置到您的 n8n 專案中：
+   ```
+   <你的n8n專案路徑>/packages/frontend/@n8n/i18n/src/locales/zh.json
+   ```
+
+   例如：
+   ```
+   C:\Users\<你的用戶名>\Desktop\n8n\n8n\packages\frontend\@n8n\i18n\src\locales\zh.json
+   ```
+
+3. **注意：** 如果該目錄已有 `zh-CN.json`（簡體中文），請保留作為備份
 
 ## 步驟 2: 修改前端 i18n 配置
 
@@ -77,7 +89,9 @@ pause
 ## 步驟 7: 重新編譯相關套件
 
 ```bash
-cd C:\Users\Jammy\Desktop\n8n\n8n
+# 切換到 n8n 專案根目錄
+cd <你的n8n專案路徑>
+# 例如: cd C:\Users\<你的用戶名>\Desktop\n8n\n8n
 
 # 編譯 i18n 套件
 pnpm --filter @n8n/i18n build
