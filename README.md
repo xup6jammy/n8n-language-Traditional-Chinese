@@ -38,7 +38,6 @@
    C:\Users\<你的用戶名>\Desktop\n8n\n8n\packages\frontend\@n8n\i18n\src\locales\zh.json
    ```
 
-3. **注意：** 如果該目錄已有 `zh-CN.json`（簡體中文），請保留作為備份
 
 ## 步驟 2: 修改前端 i18n 配置
 
